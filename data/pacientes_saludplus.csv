@@ -1,0 +1,6 @@
+DNI,Nombre,Sexo,Edad,Diagnosticos,Alergias,FechaUltimaVisita
+12345678A,Laura González,M,34,"['Hipertensión', 'Alergia primaveral']",['Polen'],2024-04-10
+87654321B,Carlos Pérez,H,45,['Diabetes tipo 2'],[],2024-03-28
+11223344C,Ana Martínez,M,29,['Asma'],"['Ácaros', 'Látex']",2024-02-15
+44332211D,Miguel Torres,H,52,"['Colesterol alto', 'Ansiedad']",['Ninguna'],2024-04-01
+55667788E,Lucía Fernández,M,37,['Migraña'],['Gluten'],2024-03-10

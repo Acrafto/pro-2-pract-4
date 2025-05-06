@@ -1,0 +1,6 @@
+DNI,Nombre,Sexo,Edad,Diagnosticos,Alergias,FechaUltimaVisita
+12345678A,Laura González,M,34,['Gastritis'],['Lácteos'],2024-04-18
+99887766F,Javier Muñoz,H,41,['Hipotiroidismo'],[],2024-03-20
+66554433G,María López,M,50,['Artritis'],['Penicilina'],2024-02-22
+11223344C,Ana Martínez,M,29,['Bronquitis'],['Polvo'],2024-03-02
+33445566H,Pedro Ramírez,H,60,['Cardiopatía isquémica'],['Sulfonamidas'],2024-04-05
