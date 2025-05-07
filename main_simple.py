@@ -43,7 +43,7 @@ def read_patients(ruta_csv):
             }
         return tree
 
-def print_tree_hierarchy(tree, node=None, prefix="", is_left=True):
+def print_tree_hierarchy(tree, node=None, prefix="", is_left=True): #Cool printing function i spent more time than i should have on it
     """
     Imprime un árbol AVL en formato jerárquico con ramas visuales.
 
@@ -67,7 +67,7 @@ def print_tree_hierarchy(tree, node=None, prefix="", is_left=True):
             if tree.right(node):
                 print_tree_hierarchy(tree, tree.right(node), child_prefix, False)
 
-def get_tree_keys(tree: AVL) -> list:
+def get_tree_keys(tree: AVL) -> list:#Simple function, but I did not find a method in the AVL class to get all the keys
     """
     Obtiene todas las claves de un árbol AVL.
 
