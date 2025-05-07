@@ -173,3 +173,9 @@ if __name__ == '__main__':
     print("borramos la clave 3")
     del tree[3]
     preorder_indent_BST(tree,tree.root(),0)
+<<<<<<< HEAD
+=======
+    print()
+    keys = [key for key in tree]
+    print(keys)
+>>>>>>> 92ada97 (Resueltos conflictos de merge y cambios locales)
