@@ -25,7 +25,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-from materials.exceptions import Empty
+from exceptions import Empty
 
 class Queue:
   """FIFO queue implementation using a singly linked list for storage."""
