@@ -26,7 +26,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-from positional_tree import PositionalTree
+from materials.positional_tree import PositionalTree
 from abc import ABC, abstractmethod
 
 class PositionalBinaryTree(PositionalTree, ABC):

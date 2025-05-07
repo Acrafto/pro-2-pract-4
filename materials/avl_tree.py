@@ -25,7 +25,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-from binary_search_tree import BST
+from materials.binary_search_tree import BST
 
 class AVL(BST):
   """Sorted map implementation using an AVL tree."""
@@ -173,9 +173,3 @@ if __name__ == '__main__':
     print("borramos la clave 3")
     del tree[3]
     preorder_indent_BST(tree,tree.root(),0)
-<<<<<<< HEAD
-=======
-    print()
-    keys = [key for key in tree]
-    print(keys)
->>>>>>> 92ada97 (Resueltos conflictos de merge y cambios locales)

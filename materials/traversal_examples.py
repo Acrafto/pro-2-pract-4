@@ -26,7 +26,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-from linked_positional_binary_tree import LinkedPositionalBinaryTree
+from materials.linked_positional_binary_tree import LinkedPositionalBinaryTree
 
 def toc_plain(T):
   for p in T.preorder():

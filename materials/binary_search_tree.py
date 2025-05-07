@@ -25,9 +25,9 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-from linked_positional_binary_tree import LinkedPositionalBinaryTree
+from materials.linked_positional_binary_tree import LinkedPositionalBinaryTree
 
-from map_base import MapBase
+from materials.map_base import MapBase
 
 class BST(LinkedPositionalBinaryTree, MapBase):
   """Sorted map implementation using a binary search tree."""

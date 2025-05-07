@@ -26,7 +26,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-from linked_queue import Queue
+from materials.linked_queue import Queue
 from abc import ABC, abstractmethod
 
 class PositionalTree(ABC):
