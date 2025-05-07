@@ -25,7 +25,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-from materials.binary_search_tree import BST
+from binary_search_tree import BST
 
 class AVL(BST):
   """Sorted map implementation using an AVL tree."""
