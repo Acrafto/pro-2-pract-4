@@ -19,7 +19,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-from materials.positional_binary_tree import PositionalBinaryTree
+from positional_binary_tree import PositionalBinaryTree
 
 class LinkedPositionalBinaryTree(PositionalBinaryTree):
   """Linked representation of a binary tree structure."""
